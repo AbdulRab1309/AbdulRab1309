@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Detail-oriented Electronics and Communication Engineering student combining expertise in full-stack web development (MERN, Next.js) with a strong foundation in cybersecurity and system administration. Highly proficient in Linux environments, Bash scripting, and relational/non-relational database management (PostgreSQL, MongoDB). Passionate about secure software engineering and active threat defense, focusing on Blue Team tactics and SOC methodologies. Adept at leveraging CLI tools and modern frameworks to drive secure, innovative technical solutions.
 
 
