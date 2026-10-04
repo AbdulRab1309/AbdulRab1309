@@ -155,6 +155,14 @@ I’m an Electronics and Communication Engineering student with a strong interes
 
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulRab1309/AbdulRab1309/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulRab1309/AbdulRab1309/output/github-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/AbdulRab1309/AbdulRab1309/output/github-snake.svg">
+  </picture>
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AbdulRab1309&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AbdulRab1309&theme=dark&hide_border=false)<br/>
