@@ -164,7 +164,6 @@ I’m an Electronics and Communication Engineering student with a strong interes
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AbdulRab1309&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AbdulRab1309&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbdulRab1309&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
