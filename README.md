@@ -1,9 +1,6 @@
 #  About Me:
-Detail-oriented Electronics and Communication Engineering student combining expertise in full-stack web development (MERN, Next.js) with a strong foundation in cybersecurity and system administration. Highly proficient in Linux environments, Bash scripting, and relational/non-relational database management (PostgreSQL, MongoDB). Passionate about secure software engineering and active threat defense, focusing on Blue Team tactics and SOC methodologies. Adept at leveraging CLI tools and modern frameworks to drive secure, innovative technical solutions.
+I’m an Electronics and Communication Engineering student with a strong interest in Cybersecurity, DevOps, Networking, Cloud Computing, and Backend Development. I enjoy building practical, technology-driven projects that combine software, security, and hardware, ranging from SOC-focused security monitoring and Linux automation to full-stack applications and embedded systems. I have hands-on experience with Linux, Bash scripting, Git/GitHub, Python, JavaScript, Node.js, REST APIs, databases, SIEM/EDR concepts, and Oracle Cloud Infrastructure, along with experience working with ESP32, Raspberry Pi, LiDAR, and sensor-based systems. I’m currently strengthening my skills in SOC operations, SIEM/EDR, CI/CD, DevOps, and DevSecOps, while continuously building projects and exploring real-world security and infrastructure practices.
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdulrabsheikh1309) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-rab-21ab6521b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrabsheikh60@gmail.com) 
 
 ## 💻 Tech Skills
 
@@ -129,7 +126,7 @@ Detail-oriented Electronics and Communication Engineering student combining expe
 </a>
 </p>
 
-### 🌐 Socials
+## 🌐 Socials
 
 <p align="left">
 
